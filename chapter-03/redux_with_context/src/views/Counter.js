@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-
+import PropTypes from 'prop-types';
 import * as Actions from '../Actions.js';
 
 const buttonStyle = {
